@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robiotik
+- 👀 I’m interested in Web developement stuff
+- 🌱 I’m currently learning Self-control and tailwindcss
+- ✨ What I've learned about GitHub so far? Use as many ✨Emojis✨ as you can!
+- 📫 You can reach me on LinkedIn if you want: https://www.linkedin.com/in/robert-sontag-7821271a2/
